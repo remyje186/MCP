@@ -1,0 +1,8 @@
+langchain
+langchain_community
+langchain_ollama
+langchain_core
+langchain_mcp_adapters
+httpx
+nest_asyncio
+python-dotenv
